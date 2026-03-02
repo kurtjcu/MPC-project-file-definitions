@@ -1,0 +1,436 @@
+{
+  "key": 0,
+  "value": {
+    "version": 5,
+    "name": "HipHop Template",
+    "bpm": 93.00003814697266,
+    "lengthBars": 16,
+    "loopStartBar": 0,
+    "loopEndBar": 16,
+    "loop": true,
+    "tempoEnable": true,
+    "transposition": 0,
+    "smpteStart": {
+      "hours": 0,
+      "mins": 0,
+      "secs": 0,
+      "frames": 0,
+      "subframes": 0
+    },
+    "timeSignatureTrack": {
+      "timeSignatures": [
+        {
+          "beatsPerBar": 4,
+          "beatLength": 960,
+          "barStart": 0
+        }
+      ]
+    },
+    "trackClipMaps": [
+      [
+        {
+          "key": "Audio 001",
+          "value": {
+            "version": 2,
+            "launchQuantisation": 1,
+            "startPulses": 0,
+            "endPulses": 61440,
+            "loopStartPulses": 0,
+            "loopEndPulses": 61440,
+            "loop": true,
+            "legato": true,
+            "launch": 0,
+            "name": "Audio 001",
+            "colour": 0,
+            "eventList": {
+              "length": 9223372036854775807,
+              "events": [],
+              "version": 2,
+              "quantisation": {
+                "version": 1,
+                "pulses": 0,
+                "swing": 0.0,
+                "strength": 1.0
+              },
+              "numFilterTypes": 30
+            },
+            "perClipParameterValues": {
+              "perClipParameterValues": [
+                {
+                  "key": {
+                    "parameter": 256,
+                    "instrumentIndex": 256
+                  },
+                  "value": 0.0
+                },
+                {
+                  "key": {
+                    "parameter": 256,
+                    "instrumentIndex": 257
+                  },
+                  "value": 0.0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "HipHop Bass",
+          "value": {
+            "version": 2,
+            "launchQuantisation": 1,
+            "startPulses": 0,
+            "endPulses": 61440,
+            "loopStartPulses": 0,
+            "loopEndPulses": 61440,
+            "loop": true,
+            "legato": true,
+            "launch": 0,
+            "name": "HipHop Bass",
+            "colour": 0,
+            "eventList": {
+              "length": 9223372036854775807,
+              "events": [
+                {
+                  "version": 2,
+                  "time": 0,
+                  "type": 1,
+                  "channel": 0,
+                  "selected": false,
+                  "muted": false,
+                  "invented": false,
+                  "automation": {
+                    "note": 0,
+                    "value": 0.0,
+                    "parameter": 131
+                  }
+                },
+                {
+                  "version": 2,
+                  "time": 0,
+                  "type": 3,
+                  "channel": 0,
+                  "selected": false,
+                  "muted": false,
+                  "invented": false,
+                  "note": {
+                    "version": 1,
+                    "note": 39,
+                    "velocity": 0.8425197005271912,
+                    "length": 377,
+                    "probability": 100,
+                    "ratchet": 1,
+                    "articulation": 197,
+                    "modifierValue0": 0.5,
+                    "modifierActiveState0": true,
+                    "modifierValue1": 0.5,
+                    "modifierActiveState1": false,
+                    "modifierValue2": 0.0,
+                    "modifierActiveState2": false,
+                    "modifierValue3": 0.0,
+                    "modifierActiveState3": false,
+                    "modifierValue4": 0.0,
+                    "modifierActiveState4": false,
+                    "modifierValue5": 0.5,
+                    "modifierActiveState5": false,
+                    "modifierValue6": 1.0,
+                    "modifierActiveState6": false,
+                    "modifierValue7": 0.0,
+                    "modifierActiveState7": false,
+                    "modifierValue8": 0.0,
+                    "modifierActiveState8": false,
+                    "modifierValue9": 0.0,
+                    "modifierActiveState9": false,
+                    "modifierValue10": 0.0,
+                    "modifierActiveState10": false,
+                    "modifierValue11": 0.0,
+                    "modifierActiveState11": false,
+                    "modifierValue12": 0.0,
+                    "modifierActiveState12": false,
+                    "modifierValue13": 0.0,
+                    "modifierActiveState13": false,
+                    "modifierValue14": 0.0,
+                    "modifierActiveState14": false,
+                    "modifierValue15": 0.0,
+                    "modifierActiveState15": false,
+                    "EnumCerealisationWrapper(selectedModifierType)": "Tuning (coarse)"
+                  }
+                },
+                {
+                  "version": 2,
+                  "time": 480,
+                  "type": 3,
+                  "channel": 0,
+                  "selected": false,
+                  "muted": false,
+                  "invented": false,
+                  "note": {
+                    "version": 1,
+                    "note": 39,
+                    "velocity": 0.7007874250411987,
+                    "length": 319,
+                    "probability": 100,
+                    "ratchet": 1,
+                    "articulation": 197,
+                    "modifierValue0": 0.5,
+                    "modifierActiveState0": true,
+                    "modifierValue1": 0.5,
+                    "modifierActiveState1": false,
+                    "modifierValue2": 0.0,
+                    "modifierActiveState2": false,
+                    "modifierValue3": 0.0,
+                    "modifierActiveState3": false,
+                    "modifierValue4": 0.0,
+                    "modifierActiveState4": false,
+                    "modifierValue5": 0.5,
+                    "modifierActiveState5": false,
+                    "modifierValue6": 1.0,
+                    "modifierActiveState6": false,
+                    "modifierValue7": 0.0,
+                    "modifierActiveState7": false,
+                    "modifierValue8": 0.0,
+                    "modifierActiveState8": false,
+                    "modifierValue9": 0.0,
+                    "modifierActiveState9": false,
+                    "modifierValue10": 0.0,
+                    "modifierActiveState10": false,
+                    "modifierValue11": 0.0,
+                    "modifierActiveState11": false,
+                    "modifierValue12": 0.0,
+                    "modifierActiveState12": false,
+                    "modifierValue13": 0.0,
+                    "modifierActiveState13": false,
+                    "modifierValue14": 0.0,
+                    "modifierActiveState14": false,
+                    "modifierValue15": 0.0,
+                    "modifierActiveState15": false,
+                    "EnumCerealisationWrapper(selectedModifierType)": "Tuning (coarse)"
+                  }
+                }
+              ],
+              "version": 2,
+              "quantisation": {
+                "version": 1,
+                "pulses": 0,
+                "swing": 0.0,
+                "strength": 1.0
+              },
+              "numFilterTypes": 30
+            },
+            "perClipParameterValues": {
+              "perClipParameterValues": [
+                {
+                  "key": {
+                    "parameter": 256,
+                    "instrumentIndex": 256
+                  },
+                  "value": 0.0
+                },
+                {
+                  "key": {
+                    "parameter": 256,
+                    "instrumentIndex": 257
+                  },
+                  "value": 0.0
+                }
+              ]
+            }
+          }
+        },
+        {
+          "key": "HipHop Guitars",
+          "value": {
+            "version": 2,
+            "launchQuantisation": 1,
+            "startPulses": 0,
+            "endPulses": 61440,
+            "loopStartPulses": 0,
+            "loopEndPulses": 61440,
+            "loop": true,
+            "legato": true,
+            "launch": 0,
+            "name": "HipHop Guitars",
+            "colour": 0,
+            "eventList": {
+              "length": 9223372036854775807,
+              "events": [
+                {
+                  "version": 2,
+                  "time": 0,
+                  "type": 1,
+                  "channel": 0,
+                  "selected": false,
+                  "muted": false,
+                  "invented": false,
+                  "automation": {
+                    "note": 45,
+                    "value": 0.0,
+                    "parameter": 131
+                  }
+                },
+                {
+                  "version": 2,
+                  "time": 960,
+                  "type": 3,
+                  "channel": 0,
+                  "selected": false,
+                  "muted": false,
+                  "invented": false,
+                  "note": {
+                    "version": 1,
+                    "note": 45,
+                    "velocity": 1.0,
+                    "length": 673,
+                    "probability": 100,
+                    "ratchet": 1,
+                    "articulation": 197,
+                    "modifierValue0": 0.5,
+                    "modifierActiveState0": true,
+                    "modifierValue1": 0.5,
+                    "modifierActiveState1": false,
+                    "modifierValue2": 0.0,
+                    "modifierActiveState2": false,
+                    "modifierValue3": 0.0,
+                    "modifierActiveState3": false,
+                    "modifierValue4": 0.0,
+                    "modifierActiveState4": false,
+                    "modifierValue5": 0.5,
+                    "modifierActiveState5": false,
+                    "modifierValue6": 1.0,
+                    "modifierActiveState6": false,
+                    "modifierValue7": 0.0,
+                    "modifierActiveState7": false,
+                    "modifierValue8": 0.0,
+                    "modifierActiveState8": false,
+                    "modifierValue9": 0.0,
+                    "modifierActiveState9": false,
+                    "modifierValue10": 0.0,
+                    "modifierActiveState10": false,
+                    "modifierValue11": 0.0,
+                    "modifierActiveState11": false,
+                    "modifierValue12": 0.0,
+                    "modifierActiveState12": false,
+                    "modifierValue13": 0.0,
+                    "modifierActiveState13": false,
+                    "modifierValue14": 0.0,
+                    "modifierActiveState14": false,
+                    "modifierValue15": 0.0,
+                    "modifierActiveState15": false,
+                    "EnumCerealisationWrapper(selectedModifierType)": "Tuning (coarse)"
+                  }
+                },
+                {
+                  "version": 2,
+                  "time": 1615,
+                  "type": 1,
+                  "channel": 0,
+                  "selected": false,
+                  "muted": false,
+                  "invented": false,
+                  "automation": {
+                    "note": 45,
+                    "value": 0.06299212574958801,
+                    "parameter": 131
+                  }
+                }
+              ],
+              "version": 2,
+              "quantisation": {
+                "version": 1,
+                "pulses": 0,
+                "swing": 0.0,
+                "strength": 1.0
+              },
+              "numFilterTypes": 30
+            },
+            "perClipParameterValues": {
+              "perClipParameterValues": [
+                {
+                  "key": {
+                    "parameter": 256,
+                    "instrumentIndex": 256
+                  },
+                  "value": 0.0
+                },
+                {
+                  "key": {
+                    "parameter": 256,
+                    "instrumentIndex": 257
+                  },
+                  "value": 0.0
+                }
+              ]
+            }
+          }
+        }
+      ]
+    ],
+    "seqEventList": {
+      "length": 9223372036854775807,
+      "events": [],
+      "version": 2,
+      "quantisation": {
+        "version": 1,
+        "pulses": 0,
+        "swing": 0.0,
+        "strength": 1.0
+      },
+      "numFilterTypes": 30
+    },
+    "locators": {
+      "version": 1,
+      "names": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "positions": [
+        {
+          "bar": 0,
+          "beat": 0,
+          "pulse": 0
+        },
+        {
+          "bar": 0,
+          "beat": 0,
+          "pulse": 0
+        },
+        {
+          "bar": 0,
+          "beat": 0,
+          "pulse": 0
+        },
+        {
+          "bar": 0,
+          "beat": 0,
+          "pulse": 0
+        },
+        {
+          "bar": 0,
+          "beat": 0,
+          "pulse": 0
+        },
+        {
+          "bar": 0,
+          "beat": 0,
+          "pulse": 0
+        }
+      ],
+      "colours": [
+        16711867,
+        16711935,
+        16746496,
+        16711799,
+        16711867,
+        43775
+      ]
+    },
+    "lengthPulses": 61440,
+    "loopStartPulses": 0,
+    "loopEndPulses": 61440,
+    "autoSelectTrackIndex": -1
+  }
+}

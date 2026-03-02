@@ -1,0 +1,1317 @@
+{
+  "version": 5,
+  "name": "Plugin 001",
+  "volume": 1.0,
+  "volumeKnown": false,
+  "pan": 0.5,
+  "panKnown": false,
+  "mute": false,
+  "cvPort": 0,
+  "gatePort": 1,
+  "velocityScale": 1.0,
+  "muteGroup": 0,
+  "transposition": 0,
+  "colour": 65408,
+  "padsFollowTrackColour": false,
+  "skipFromRowLaunch": false,
+  "samples": [],
+  "program": {
+    "version": 4,
+    "name": "Plugin 001",
+    "type": 3,
+    "programPads": {
+      "Universal": {
+        "value0": true
+      },
+      "Type": {
+        "value0": 5
+      },
+      "universalPad": 65280,
+      "pads": {
+        "value0": 0,
+        "value1": 0,
+        "value2": 0,
+        "value3": 0,
+        "value4": 0,
+        "value5": 0,
+        "value6": 0,
+        "value7": 0,
+        "value8": 0,
+        "value9": 0,
+        "value10": 0,
+        "value11": 0,
+        "value12": 0,
+        "value13": 0,
+        "value14": 0,
+        "value15": 0,
+        "value16": 0,
+        "value17": 0,
+        "value18": 0,
+        "value19": 0,
+        "value20": 0,
+        "value21": 0,
+        "value22": 0,
+        "value23": 0,
+        "value24": 0,
+        "value25": 0,
+        "value26": 0,
+        "value27": 0,
+        "value28": 0,
+        "value29": 0,
+        "value30": 0,
+        "value31": 0,
+        "value32": 0,
+        "value33": 0,
+        "value34": 0,
+        "value35": 0,
+        "value36": 0,
+        "value37": 0,
+        "value38": 0,
+        "value39": 0,
+        "value40": 0,
+        "value41": 0,
+        "value42": 0,
+        "value43": 0,
+        "value44": 0,
+        "value45": 0,
+        "value46": 0,
+        "value47": 0,
+        "value48": 0,
+        "value49": 0,
+        "value50": 0,
+        "value51": 0,
+        "value52": 0,
+        "value53": 0,
+        "value54": 0,
+        "value55": 0,
+        "value56": 0,
+        "value57": 0,
+        "value58": 0,
+        "value59": 0,
+        "value60": 0,
+        "value61": 0,
+        "value62": 0,
+        "value63": 0,
+        "value64": 0,
+        "value65": 0,
+        "value66": 0,
+        "value67": 0,
+        "value68": 0,
+        "value69": 0,
+        "value70": 0,
+        "value71": 0,
+        "value72": 0,
+        "value73": 0,
+        "value74": 0,
+        "value75": 0,
+        "value76": 0,
+        "value77": 0,
+        "value78": 0,
+        "value79": 0,
+        "value80": 0,
+        "value81": 0,
+        "value82": 0,
+        "value83": 0,
+        "value84": 0,
+        "value85": 0,
+        "value86": 0,
+        "value87": 0,
+        "value88": 0,
+        "value89": 0,
+        "value90": 0,
+        "value91": 0,
+        "value92": 0,
+        "value93": 0,
+        "value94": 0,
+        "value95": 0,
+        "value96": 0,
+        "value97": 0,
+        "value98": 0,
+        "value99": 0,
+        "value100": 0,
+        "value101": 0,
+        "value102": 0,
+        "value103": 0,
+        "value104": 0,
+        "value105": 0,
+        "value106": 0,
+        "value107": 0,
+        "value108": 0,
+        "value109": 0,
+        "value110": 0,
+        "value111": 0,
+        "value112": 0,
+        "value113": 0,
+        "value114": 0,
+        "value115": 0,
+        "value116": 0,
+        "value117": 0,
+        "value118": 0,
+        "value119": 0,
+        "value120": 0,
+        "value121": 0,
+        "value122": 0,
+        "value123": 0,
+        "value124": 0,
+        "value125": 0,
+        "value126": 0,
+        "value127": 0
+      },
+      "UnusedPads": {
+        "value0": 1
+      },
+      "PadsFollowTrackColour": {
+        "value0": false
+      }
+    },
+    "customQLinks": [],
+    "transpose": 0,
+    "midiKillGroup": -1,
+    "chainID": 0,
+    "midiEventsFilter": {
+      "channelFilterData": {
+        "channel": 255
+      },
+      "velocityFilterData": {
+        "min": 0.0,
+        "max": 1.0
+      },
+      "noteFilterData": {
+        "noteRange": {
+          "type": 2,
+          "data": "11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"
+        }
+      },
+      "automationFilterData": {
+        "filteredParams": "00000000000000000"
+      }
+    },
+    "mixable": {
+      "version": 1,
+      "audioRoute": {
+        "destination": 1,
+        "audioRouteSubIndex": 1,
+        "channelBitmap": {
+          "type": 0,
+          "data": 3
+        }
+      },
+      "volume": 0.70703125,
+      "mute": false,
+      "solo": false,
+      "pan": 0.5,
+      "automationFilter": 1,
+      "sends": [
+        0.0,
+        0.0,
+        0.46875,
+        0.0
+      ],
+      "inserts": {
+        "insertsEnabled": true,
+        "effects": [
+          {
+            "index": 0,
+            "plugin": {
+              "version": 2,
+              "is64Bits": true,
+              "description": {
+                "version": 1,
+                "name": "AIR Channel Strip",
+                "descriptiveName": "AIR Channel Strip",
+                "pluginFormatName": "MPC",
+                "category": "",
+                "manufacturerName": "AIR Music Technology",
+                "fileOrIdentifier": "MPC:AIR Channel Strip",
+                "uid": 1631807571,
+                "isInstrument": false,
+                "numInputChannels": 2,
+                "numOutputChannels": 2
+              },
+              "state": "179.AMjUSA....PPIIEHCgVXt4VYrAxTzIWZvA..............................................................B....PA...Pb8nvO....+....7CqKtoOWsUj9....7SI0IwO....+....5C...nO...f+.........vO....+....8C...3O................cNmS+jjaoQG.PIUQSUDUNETSEU.....",
+              "programNumber": 0,
+              "presetName": "Init",
+              "presetEdited": false
+            },
+            "enable": true
+          }
+        ]
+      }
+    },
+    "customisable": {
+      "mapping": [
+        {
+          "parameterIndex": "0 0 0",
+          "automationIndex": 3,
+          "value": 0.0,
+          "name": "Start Phase"
+        },
+        {
+          "parameterIndex": "0 0 1",
+          "automationIndex": 7,
+          "value": 0.0,
+          "name": "Boost Env"
+        },
+        {
+          "parameterIndex": "0 0 2",
+          "automationIndex": 11,
+          "value": 0.0,
+          "name": "HP Cutoff"
+        },
+        {
+          "parameterIndex": "0 0 3",
+          "automationIndex": 15,
+          "value": 0.0,
+          "name": "Pitch Mod"
+        },
+        {
+          "parameterIndex": "0 0 4",
+          "automationIndex": 2,
+          "value": 0.0,
+          "name": "Fifth"
+        },
+        {
+          "parameterIndex": "0 0 5",
+          "automationIndex": 6,
+          "value": 0.0,
+          "name": "Boost Freq"
+        },
+        {
+          "parameterIndex": "0 0 6",
+          "automationIndex": 10,
+          "value": 0.0,
+          "name": "Filter Env"
+        },
+        {
+          "parameterIndex": "0 0 7",
+          "automationIndex": 14,
+          "value": 0.0,
+          "name": "Filter Decay"
+        },
+        {
+          "parameterIndex": "0 0 8",
+          "automationIndex": 1,
+          "value": 0.0,
+          "name": "Sub-Octave"
+        },
+        {
+          "parameterIndex": "0 0 9",
+          "automationIndex": 5,
+          "value": 0.0,
+          "name": "Boost"
+        },
+        {
+          "parameterIndex": "0 0 10",
+          "automationIndex": 9,
+          "value": 0.0,
+          "name": "Reso"
+        },
+        {
+          "parameterIndex": "0 0 11",
+          "automationIndex": 13,
+          "value": 0.0,
+          "name": "Amp Decay"
+        },
+        {
+          "parameterIndex": "0 0 12",
+          "automationIndex": 0,
+          "value": 0.0,
+          "name": "Waveform"
+        },
+        {
+          "parameterIndex": "0 0 13",
+          "automationIndex": 4,
+          "value": 0.0,
+          "name": "Glide Time"
+        },
+        {
+          "parameterIndex": "0 0 14",
+          "automationIndex": 8,
+          "value": 0.0,
+          "name": "LP Cutoff"
+        },
+        {
+          "parameterIndex": "0 0 15",
+          "automationIndex": 12,
+          "value": 0.0,
+          "name": "Amp Attack"
+        },
+        {
+          "parameterIndex": "1 0 0",
+          "automationIndex": 21,
+          "value": 0.0,
+          "name": "Env Retrigger"
+        },
+        {
+          "parameterIndex": "1 0 1",
+          "automationIndex": 22,
+          "value": 0.0,
+          "name": "Bend Range"
+        },
+        {
+          "parameterIndex": "1 0 2",
+          "automationIndex": 24,
+          "value": 0.0,
+          "name": "Chorus"
+        },
+        {
+          "parameterIndex": "1 0 4",
+          "automationIndex": 20,
+          "value": 0.0,
+          "name": "Velo-Boost"
+        },
+        {
+          "parameterIndex": "1 0 5",
+          "automationIndex": 16,
+          "value": 0.0,
+          "name": "Drive"
+        },
+        {
+          "parameterIndex": "1 0 6",
+          "automationIndex": 27,
+          "value": 0.0,
+          "name": "Chrs Mix"
+        },
+        {
+          "parameterIndex": "1 0 8",
+          "automationIndex": 19,
+          "value": 0.0,
+          "name": "Velo-Filter"
+        },
+        {
+          "parameterIndex": "1 0 9",
+          "automationIndex": 17,
+          "value": 0.0,
+          "name": "Drive Type"
+        },
+        {
+          "parameterIndex": "1 0 10",
+          "automationIndex": 26,
+          "value": 0.0,
+          "name": "Chrs Depth"
+        },
+        {
+          "parameterIndex": "1 0 12",
+          "automationIndex": 18,
+          "value": 0.0,
+          "name": "Velo-Amp"
+        },
+        {
+          "parameterIndex": "1 0 13",
+          "automationIndex": 23,
+          "value": 0.0,
+          "name": "Global"
+        },
+        {
+          "parameterIndex": "1 0 14",
+          "automationIndex": 25,
+          "value": 0.0,
+          "name": "Chrs Rate"
+        },
+        {
+          "parameterIndex": "2 0 1",
+          "automationIndex": 35,
+          "value": 0.0,
+          "name": "Del Fdbk Reso Freq"
+        },
+        {
+          "parameterIndex": "2 0 2",
+          "automationIndex": 28,
+          "value": 0.0,
+          "name": "Delay"
+        },
+        {
+          "parameterIndex": "2 0 4",
+          "automationIndex": 38,
+          "value": 0.0,
+          "name": "Del Mix"
+        },
+        {
+          "parameterIndex": "2 0 5",
+          "automationIndex": 34,
+          "value": 0.0,
+          "name": "Del Fdbk Reso"
+        },
+        {
+          "parameterIndex": "2 0 6",
+          "automationIndex": 37,
+          "value": 0.0,
+          "name": "Del Width"
+        },
+        {
+          "parameterIndex": "2 0 8",
+          "automationIndex": 30,
+          "value": 0.0,
+          "name": "Del Sync"
+        },
+        {
+          "parameterIndex": "2 0 9",
+          "automationIndex": 33,
+          "value": 0.0,
+          "name": "Del Fdbk Damp"
+        },
+        {
+          "parameterIndex": "2 0 10",
+          "automationIndex": 36,
+          "value": 0.0,
+          "name": "Del HPF"
+        },
+        {
+          "parameterIndex": "2 0 12",
+          "automationIndex": 29,
+          "value": 0.0,
+          "name": "Del Time"
+        },
+        {
+          "parameterIndex": "2 0 13",
+          "automationIndex": 32,
+          "value": 0.0,
+          "name": "Del Feedback"
+        },
+        {
+          "parameterIndex": "2 0 14",
+          "automationIndex": 31,
+          "value": 0.0,
+          "name": "Del L/R Ratio"
+        },
+        {
+          "parameterIndex": "3 0 0",
+          "automationIndex": 46,
+          "value": 0.0,
+          "name": "Cmpr Mix"
+        },
+        {
+          "parameterIndex": "3 0 1",
+          "automationIndex": 39,
+          "value": 0.0,
+          "name": "Cmpr"
+        },
+        {
+          "parameterIndex": "3 0 2",
+          "automationIndex": 47,
+          "value": 0.0,
+          "name": "Hype"
+        },
+        {
+          "parameterIndex": "3 0 4",
+          "automationIndex": 45,
+          "value": 0.0,
+          "name": "Cmpr Output"
+        },
+        {
+          "parameterIndex": "3 0 5",
+          "automationIndex": 44,
+          "value": 0.0,
+          "name": "Cmpr Release"
+        },
+        {
+          "parameterIndex": "3 0 8",
+          "automationIndex": 41,
+          "value": 0.0,
+          "name": "Cmpr Ratio"
+        },
+        {
+          "parameterIndex": "3 0 9",
+          "automationIndex": 43,
+          "value": 0.0,
+          "name": "Cmpr Attack"
+        },
+        {
+          "parameterIndex": "3 0 10",
+          "automationIndex": 48,
+          "value": 0.0,
+          "name": "Hype Low"
+        },
+        {
+          "parameterIndex": "3 0 12",
+          "automationIndex": 40,
+          "value": 0.0,
+          "name": "Cmpr Threshold"
+        },
+        {
+          "parameterIndex": "3 0 13",
+          "automationIndex": 42,
+          "value": 0.0,
+          "name": "Cmpr Knee"
+        },
+        {
+          "parameterIndex": "3 0 14",
+          "automationIndex": 49,
+          "value": 0.0,
+          "name": "Hype High"
+        }
+      ]
+    },
+    "renderable": {
+      "sendToCueBus": false
+    },
+    "xfaderRoute": 0,
+    "padNoteMap": {
+      "noteForPad": {
+        "value0": 0,
+        "value1": 1,
+        "value2": 2,
+        "value3": 3,
+        "value4": 4,
+        "value5": 5,
+        "value6": 6,
+        "value7": 7,
+        "value8": 8,
+        "value9": 9,
+        "value10": 10,
+        "value11": 11,
+        "value12": 12,
+        "value13": 13,
+        "value14": 14,
+        "value15": 15,
+        "value16": 16,
+        "value17": 17,
+        "value18": 18,
+        "value19": 19,
+        "value20": 20,
+        "value21": 21,
+        "value22": 22,
+        "value23": 23,
+        "value24": 24,
+        "value25": 25,
+        "value26": 26,
+        "value27": 27,
+        "value28": 28,
+        "value29": 29,
+        "value30": 30,
+        "value31": 31,
+        "value32": 32,
+        "value33": 33,
+        "value34": 34,
+        "value35": 35,
+        "value36": 36,
+        "value37": 37,
+        "value38": 38,
+        "value39": 39,
+        "value40": 40,
+        "value41": 41,
+        "value42": 42,
+        "value43": 43,
+        "value44": 44,
+        "value45": 45,
+        "value46": 46,
+        "value47": 47,
+        "value48": 48,
+        "value49": 49,
+        "value50": 50,
+        "value51": 51,
+        "value52": 52,
+        "value53": 53,
+        "value54": 54,
+        "value55": 55,
+        "value56": 56,
+        "value57": 57,
+        "value58": 58,
+        "value59": 59,
+        "value60": 60,
+        "value61": 61,
+        "value62": 62,
+        "value63": 63,
+        "value64": 64,
+        "value65": 65,
+        "value66": 66,
+        "value67": 67,
+        "value68": 68,
+        "value69": 69,
+        "value70": 70,
+        "value71": 71,
+        "value72": 72,
+        "value73": 73,
+        "value74": 74,
+        "value75": 75,
+        "value76": 76,
+        "value77": 77,
+        "value78": 78,
+        "value79": 79,
+        "value80": 80,
+        "value81": 81,
+        "value82": 82,
+        "value83": 83,
+        "value84": 84,
+        "value85": 85,
+        "value86": 86,
+        "value87": 87,
+        "value88": 88,
+        "value89": 89,
+        "value90": 90,
+        "value91": 91,
+        "value92": 92,
+        "value93": 93,
+        "value94": 94,
+        "value95": 95,
+        "value96": 96,
+        "value97": 97,
+        "value98": 98,
+        "value99": 99,
+        "value100": 100,
+        "value101": 101,
+        "value102": 102,
+        "value103": 103,
+        "value104": 104,
+        "value105": 105,
+        "value106": 106,
+        "value107": 107,
+        "value108": 108,
+        "value109": 109,
+        "value110": 110,
+        "value111": 111,
+        "value112": 112,
+        "value113": 113,
+        "value114": 114,
+        "value115": 115,
+        "value116": 116,
+        "value117": 117,
+        "value118": 118,
+        "value119": 119,
+        "value120": 120,
+        "value121": 121,
+        "value122": 122,
+        "value123": 123,
+        "value124": 124,
+        "value125": 125,
+        "value126": 126,
+        "value127": 127
+      }
+    },
+    "plugin": {
+      "plugin": {
+        "version": 2,
+        "is64Bits": false,
+        "description": {
+          "version": 1,
+          "name": "Bassline",
+          "descriptiveName": "Bassline",
+          "pluginFormatName": "MPC",
+          "category": "Synth",
+          "manufacturerName": "AIR Music Technology",
+          "fileOrIdentifier": "MPC:Bassline",
+          "uid": 1114860654,
+          "isInstrument": true,
+          "numInputChannels": 0,
+          "numOutputChannels": 2
+        },
+        "state": "305.AMjUSMA...fPgM2brklakA..........................................................................C....HC...vppppOjBWO+.........3O....+.....vGEtlOb8nP9D1B11iBWOhOnzmT9.....vyN6zOqi1b+35Qg2C..............9C.........+....7C...3OMyLS9HYjQ7C...3O....+....7C...vO.....DKrv3CkSNwO...f+rolZ5C........f+zO+74C.....ZlYF+jJpn1C.....MyLC+jHhH7C...vOyyvb9DJnf5y3bLlO...f+.....vlWoxO0giB+rjauM1ZfHTXyMG.PIUQSUDUNETSEs.....",
+        "programNumber": 19,
+        "presetName": "Knock Bass",
+        "presetEdited": false
+      }
+    },
+    "fxRackQLinks": [],
+    "customMacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "fxRackMacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.customXFaders": [],
+    "base.customXFaderMacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.fxRackXFaders": [],
+    "base.fxRackXFaderMacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.customXYPad1": [],
+    "base.customXYPad1MacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.fxRackXYPad1": [],
+    "base.fxRackXYPad1MacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.customXYPad2": [],
+    "base.customXYPad2MacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.fxRackXYPad2": [],
+    "base.fxRackXYPad2MacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.customXYPad3": [],
+    "base.customXYPad3MacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.fxRackXYPad3": [],
+    "base.fxRackXYPad3MacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.customXYPad4": [],
+    "base.customXYPad4MacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.fxRackXYPad4": [],
+    "base.fxRackXYPad4MacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.customPadGrid": [],
+    "base.customPadGridMacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.fxRackPadGrid": [],
+    "base.fxRackPadGridMacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.customEnvFollower": [],
+    "base.customEnvFollowerMacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.fxRackEnvFollower": [],
+    "base.fxRackEnvFollowerMacroSceneData": {
+      "value0": {
+        "first": "",
+        "second": []
+      },
+      "value1": {
+        "first": "",
+        "second": []
+      },
+      "value2": {
+        "first": "",
+        "second": []
+      },
+      "value3": {
+        "first": "",
+        "second": []
+      },
+      "value4": {
+        "first": "",
+        "second": []
+      },
+      "value5": {
+        "first": "",
+        "second": []
+      },
+      "value6": {
+        "first": "",
+        "second": []
+      },
+      "value7": {
+        "first": "",
+        "second": []
+      }
+    },
+    "base.customPhysicalPadsAssignments": [],
+    "base.fxRackPhysicalPadsAssignments": []
+  },
+  "length": 0,
+  "lengthFollowsSequenceLength": true,
+  "midiEventsFilter": {
+    "channelFilterData": {
+      "channel": 255
+    },
+    "velocityFilterData": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "noteFilterData": {
+      "noteRange": {
+        "type": 2,
+        "data": "11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111"
+      }
+    },
+    "automationFilterData": {
+      "filteredParams": "00000000000000000"
+    }
+  },
+  "arrangementClipMap": [],
+  "sharedClipMap": [],
+  "recordArm": true,
+  "midiBankAndProgramNumber": {
+    "midiBankEnable": false,
+    "midiBankMsb": 0,
+    "midiBankLsb": 0,
+    "midiProgramNumberEnable": false,
+    "midiProgramNumber": 0
+  },
+  "midiInputRoute": {
+    "inputPort": {
+      "type": 0,
+      "deviceName": "All Ports",
+      "deviceId": "",
+      "os": "Linux"
+    },
+    "inputChannel": 0
+  },
+  "midiOutputRoute": {
+    "outputPort": {
+      "type": 1,
+      "deviceName": "<none>",
+      "deviceId": "",
+      "os": "Linux"
+    },
+    "outputChannel": 0
+  },
+  "midiMonitorable": {
+    "state": 2
+  }
+}

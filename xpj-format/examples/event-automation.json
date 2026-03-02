@@ -1,0 +1,30 @@
+[
+  {
+    "version": 2,
+    "time": 0,
+    "type": 2,
+    "channel": 0,
+    "selected": false,
+    "muted": false,
+    "invented": false,
+    "automation": {
+      "note": 256,
+      "value": 0.17777778208255768,
+      "parameter": 4104
+    }
+  },
+  {
+    "version": 2,
+    "time": 240,
+    "type": 2,
+    "channel": 0,
+    "selected": false,
+    "muted": false,
+    "invented": false,
+    "automation": {
+      "note": 256,
+      "value": 0.18888889253139496,
+      "parameter": 4104
+    }
+  }
+]

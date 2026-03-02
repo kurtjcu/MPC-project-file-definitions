@@ -1,0 +1,955 @@
+{
+  "version": 27,
+  "coarseTune": 0,
+  "fineTune": 0,
+  "monophonic": false,
+  "polyphony": 0,
+  "lowNote": 0,
+  "highNote": 38,
+  "ignoreBaseNote": false,
+  "zonePlayTime": 1,
+  "whichMuteGroup": 0,
+  "muteTargets": {
+    "value0": 0,
+    "value1": 0,
+    "value2": 0,
+    "value3": 0
+  },
+  "simultPlayTargets": {
+    "value0": 0,
+    "value1": 0,
+    "value2": 0,
+    "value3": 0
+  },
+  "synthSection": {
+    "version": 27,
+    "filterData": {
+      "value0": {
+        "version": 27,
+        "filterKeytrack": 0.2578119933605194,
+        "filterType": 5,
+        "filterCutoff": 1.0,
+        "filterResonance": 0.0,
+        "filterEnvelopeAmount": 0.0,
+        "afterTouchToFilter": 0.0,
+        "filterVelocity": 0.65625,
+        "filterEnvelopeVelocity": 0.2265619933605194,
+        "cutoffRandom": 0.0,
+        "resonanceRandom": 0.0,
+        "outputLevel": 1.0,
+        "pressureToFilter": 0.0
+      },
+      "value1": {
+        "version": 27,
+        "filterKeytrack": 0.0,
+        "filterType": 0,
+        "filterCutoff": 1.0,
+        "filterResonance": 0.0,
+        "filterEnvelopeAmount": 0.0,
+        "afterTouchToFilter": 0.0,
+        "filterVelocity": 0.0,
+        "filterEnvelopeVelocity": 0.0,
+        "cutoffRandom": 0.0,
+        "resonanceRandom": 0.0,
+        "outputLevel": 1.0,
+        "pressureToFilter": 0.0
+      }
+    },
+    "filterSerialRouting": false,
+    "filterBlend": 0.5,
+    "lfoData": {
+      "value0": {
+        "version": 27,
+        "lfoPitch": 0.1328119933605194,
+        "lfoAmpLevel": 0.0,
+        "lfoPan": 0.0,
+        "lfoFilterCutOff": {
+          "value0": 0.4921880066394806,
+          "value1": 0.0
+        },
+        "lfoDelay": 0.0,
+        "lfoLevel": 1.0,
+        "lfoFadein": 0.0,
+        "lfoWaveformType": 1,
+        "lfoRate": 0.6299999952316284,
+        "lfoSync": 0,
+        "lfoFreeRunning": false,
+        "lfoDelaySync": 0,
+        "lfoFadeinSync": 0,
+        "lfoReset": false
+      },
+      "value1": {
+        "version": 27,
+        "lfoPitch": 0.0,
+        "lfoAmpLevel": 0.0,
+        "lfoPan": 0.0,
+        "lfoFilterCutOff": {
+          "value0": 0.0,
+          "value1": 0.0
+        },
+        "lfoDelay": 0.0,
+        "lfoLevel": 1.0,
+        "lfoFadein": 0.0,
+        "lfoWaveformType": 0,
+        "lfoRate": 0.5,
+        "lfoSync": 0,
+        "lfoFreeRunning": false,
+        "lfoDelaySync": 0,
+        "lfoFadeinSync": 0,
+        "lfoReset": true
+      }
+    },
+    "velocityToStart": 0.0,
+    "filterEnvelope": {
+      "version": 2,
+      "Attack": {
+        "value0": 0.140625
+      },
+      "VelocityToAttack": {
+        "value0": 0.203125
+      },
+      "Decay": {
+        "value0": 1.0
+      },
+      "Sustain": {
+        "value0": 0.1875
+      },
+      "Release": {
+        "value0": 0.609375
+      },
+      "Hold": {
+        "value0": 0.0
+      },
+      "DecayFromEnd": {
+        "value0": true
+      },
+      "AD": {
+        "value0": true
+      },
+      "OneShot": {
+        "value0": false
+      },
+      "AttackPhase": {
+        "value0": 0.0
+      },
+      "DecayPhase": {
+        "value0": 0.0
+      },
+      "DecayStart": {
+        "value0": 0
+      },
+      "Type": 0,
+      "Delay": {
+        "value0": 0.0
+      },
+      "AttackCurve": {
+        "value0": 0.375
+      },
+      "DecayCurve": {
+        "value0": 0.375
+      },
+      "ReleaseCurve": {
+        "value0": 0.375
+      },
+      "tempoSync": {
+        "value0": "None"
+      },
+      "Looped": {
+        "value0": false
+      },
+      "TimeScaling": {
+        "value0": 0.5
+      }
+    },
+    "ampEnvelope": {
+      "version": 2,
+      "Attack": {
+        "value0": 0.0
+      },
+      "VelocityToAttack": {
+        "value0": 0.0
+      },
+      "Decay": {
+        "value0": 0.2109380066394806
+      },
+      "Sustain": {
+        "value0": 1.0
+      },
+      "Release": {
+        "value0": 0.6796879768371582
+      },
+      "Hold": {
+        "value0": 0.0
+      },
+      "DecayFromEnd": {
+        "value0": true
+      },
+      "AD": {
+        "value0": true
+      },
+      "OneShot": {
+        "value0": false
+      },
+      "AttackPhase": {
+        "value0": 0.0
+      },
+      "DecayPhase": {
+        "value0": 0.0
+      },
+      "DecayStart": {
+        "value0": 0
+      },
+      "Type": 0,
+      "Delay": {
+        "value0": 0.0
+      },
+      "AttackCurve": {
+        "value0": 0.375
+      },
+      "DecayCurve": {
+        "value0": 0.375
+      },
+      "ReleaseCurve": {
+        "value0": 0.375
+      },
+      "tempoSync": {
+        "value0": "None"
+      },
+      "Looped": {
+        "value0": false
+      },
+      "TimeScaling": {
+        "value0": 0.5
+      }
+    },
+    "pitchEnvelope": {
+      "version": 2,
+      "Attack": {
+        "value0": 0.0
+      },
+      "VelocityToAttack": {
+        "value0": 0.0
+      },
+      "Decay": {
+        "value0": 0.04724400117993355
+      },
+      "Sustain": {
+        "value0": 1.0
+      },
+      "Release": {
+        "value0": 0.0
+      },
+      "Hold": {
+        "value0": 0.0
+      },
+      "DecayFromEnd": {
+        "value0": true
+      },
+      "AD": {
+        "value0": true
+      },
+      "OneShot": {
+        "value0": false
+      },
+      "AttackPhase": {
+        "value0": 0.0
+      },
+      "DecayPhase": {
+        "value0": 0.0
+      },
+      "DecayStart": {
+        "value0": 0
+      },
+      "Type": 0,
+      "Delay": {
+        "value0": 0.0
+      },
+      "AttackCurve": {
+        "value0": 0.375
+      },
+      "DecayCurve": {
+        "value0": 0.375
+      },
+      "ReleaseCurve": {
+        "value0": 0.375
+      },
+      "tempoSync": {
+        "value0": "None"
+      },
+      "Looped": {
+        "value0": false
+      },
+      "TimeScaling": {
+        "value0": 0.5
+      }
+    },
+    "pitchEnvelopeAmount": 0.5,
+    "randomisationScale": 1.0,
+    "attackRandom": 0.0,
+    "decayRandom": 0.0,
+    "auxEnvelope": {
+      "version": 2,
+      "Attack": {
+        "value0": 0.0
+      },
+      "VelocityToAttack": {
+        "value0": 0.0
+      },
+      "Decay": {
+        "value0": 0.04724409431219101
+      },
+      "Sustain": {
+        "value0": 1.0
+      },
+      "Release": {
+        "value0": 0.0
+      },
+      "Hold": {
+        "value0": 0.0
+      },
+      "DecayFromEnd": {
+        "value0": true
+      },
+      "AD": {
+        "value0": true
+      },
+      "OneShot": {
+        "value0": false
+      },
+      "AttackPhase": {
+        "value0": 0.0
+      },
+      "DecayPhase": {
+        "value0": 0.0
+      },
+      "DecayStart": {
+        "value0": 0
+      },
+      "Type": 0,
+      "Delay": {
+        "value0": 0.0
+      },
+      "AttackCurve": {
+        "value0": 0.375
+      },
+      "DecayCurve": {
+        "value0": 0.375
+      },
+      "ReleaseCurve": {
+        "value0": 0.375
+      },
+      "tempoSync": {
+        "value0": "None"
+      },
+      "Looped": {
+        "value0": false
+      },
+      "TimeScaling": {
+        "value0": 0.5
+      }
+    },
+    "auxEnvelopeAmount": 0.0,
+    "rampData": {
+      "value0": 0.0,
+      "value1": 0.0
+    },
+    "driftSpeed": 0.0,
+    "velocityToPitch": 0.0,
+    "velocitySensitivity": 1.0,
+    "velocityToPan": 0.0
+  },
+  "triggerMode": 2,
+  "tempo": 120.0,
+  "bpmLock": true,
+  "warpEnable": false,
+  "stretchPercentage": 100,
+  "layersv": [
+    {
+      "active": true,
+      "volume": {
+        "gainCoefficient": 1.0,
+        "controlValue": 1.0,
+        "law": 1
+      },
+      "pan": 0.5,
+      "pitch": 0.0,
+      "coarseTune": 0,
+      "fineTune": 0,
+      "velocityStart": 0,
+      "velocityEnd": 127,
+      "sampleStart": 0,
+      "sampleEnd": 0,
+      "loop": false,
+      "loopStart": 0,
+      "loopEnd": 0,
+      "loopCrossfadeLength": 0,
+      "loopFineTune": 0,
+      "mute": false,
+      "rootNote": 0,
+      "keyTrackEnable": true,
+      "sampleName": "String-X Strings-XStr57S0",
+      "sampleFile": "String-X Strings-XStr57S0.wav",
+      "sliceIndex": 128,
+      "direction": 0,
+      "offset": 0,
+      "sliceInfo": {
+        "Start": 0,
+        "End": 0,
+        "LoopStart": 0,
+        "LoopMode": 0,
+        "PulsePosition": 0,
+        "LoopCrossfadeLength": -1,
+        "LoopCrossfadeType": 0,
+        "TailLength": 0.0,
+        "TailLoopPosition": 0.5,
+        "NumLoopRepeats": 0
+      },
+      "version": 11,
+      "pitchRandom": 0.0,
+      "VolumeRandom": 0.0,
+      "PanRandom": 0.0,
+      "OffsetRandom": 0.0,
+      "sliceIncrement": 0,
+      "sliceCycleLength": 128,
+      "sliceIncrementRngSeed": 687499,
+      "playbackOffset": 0.0,
+      "layerLoopModeOverridesSliceLoopMode": false,
+      "loopMode": 0,
+      "quadrantEnabled": {
+        "value0": true,
+        "value1": true,
+        "value2": true,
+        "value3": true
+      }
+    },
+    {
+      "active": true,
+      "volume": {
+        "gainCoefficient": 1.0,
+        "controlValue": 1.0,
+        "law": 1
+      },
+      "pan": 0.5,
+      "pitch": 0.0,
+      "coarseTune": 0,
+      "fineTune": 0,
+      "velocityStart": 0,
+      "velocityEnd": 127,
+      "sampleStart": 0,
+      "sampleEnd": 0,
+      "loop": false,
+      "loopStart": 0,
+      "loopEnd": 0,
+      "loopCrossfadeLength": 0,
+      "loopFineTune": 0,
+      "mute": false,
+      "rootNote": 0,
+      "keyTrackEnable": true,
+      "sampleName": "",
+      "sampleFile": "",
+      "sliceIndex": 128,
+      "direction": 0,
+      "offset": 0,
+      "sliceInfo": {
+        "Start": 0,
+        "End": 0,
+        "LoopStart": 0,
+        "LoopMode": 0,
+        "PulsePosition": 0,
+        "LoopCrossfadeLength": 0,
+        "LoopCrossfadeType": 0,
+        "TailLength": 0.0,
+        "TailLoopPosition": 0.5,
+        "NumLoopRepeats": 0
+      },
+      "version": 11,
+      "pitchRandom": 0.0,
+      "VolumeRandom": 0.0,
+      "PanRandom": 0.0,
+      "OffsetRandom": 0.0,
+      "sliceIncrement": 0,
+      "sliceCycleLength": 128,
+      "sliceIncrementRngSeed": 306746,
+      "playbackOffset": 0.0,
+      "layerLoopModeOverridesSliceLoopMode": false,
+      "loopMode": 0,
+      "quadrantEnabled": {
+        "value0": true,
+        "value1": true,
+        "value2": true,
+        "value3": true
+      }
+    },
+    {
+      "active": true,
+      "volume": {
+        "gainCoefficient": 1.0,
+        "controlValue": 1.0,
+        "law": 1
+      },
+      "pan": 0.5,
+      "pitch": 0.0,
+      "coarseTune": 0,
+      "fineTune": 0,
+      "velocityStart": 0,
+      "velocityEnd": 127,
+      "sampleStart": 0,
+      "sampleEnd": 0,
+      "loop": false,
+      "loopStart": 0,
+      "loopEnd": 0,
+      "loopCrossfadeLength": 0,
+      "loopFineTune": 0,
+      "mute": false,
+      "rootNote": 0,
+      "keyTrackEnable": true,
+      "sampleName": "",
+      "sampleFile": "",
+      "sliceIndex": 128,
+      "direction": 0,
+      "offset": 0,
+      "sliceInfo": {
+        "Start": 0,
+        "End": 0,
+        "LoopStart": 0,
+        "LoopMode": 0,
+        "PulsePosition": 0,
+        "LoopCrossfadeLength": 0,
+        "LoopCrossfadeType": 0,
+        "TailLength": 0.0,
+        "TailLoopPosition": 0.5,
+        "NumLoopRepeats": 0
+      },
+      "version": 11,
+      "pitchRandom": 0.0,
+      "VolumeRandom": 0.0,
+      "PanRandom": 0.0,
+      "OffsetRandom": 0.0,
+      "sliceIncrement": 0,
+      "sliceCycleLength": 128,
+      "sliceIncrementRngSeed": 919192,
+      "playbackOffset": 0.0,
+      "layerLoopModeOverridesSliceLoopMode": false,
+      "loopMode": 0,
+      "quadrantEnabled": {
+        "value0": true,
+        "value1": true,
+        "value2": true,
+        "value3": true
+      }
+    },
+    {
+      "active": true,
+      "volume": {
+        "gainCoefficient": 1.0,
+        "controlValue": 1.0,
+        "law": 1
+      },
+      "pan": 0.5,
+      "pitch": 0.0,
+      "coarseTune": 0,
+      "fineTune": 0,
+      "velocityStart": 0,
+      "velocityEnd": 127,
+      "sampleStart": 0,
+      "sampleEnd": 0,
+      "loop": false,
+      "loopStart": 0,
+      "loopEnd": 0,
+      "loopCrossfadeLength": 0,
+      "loopFineTune": 0,
+      "mute": false,
+      "rootNote": 0,
+      "keyTrackEnable": true,
+      "sampleName": "",
+      "sampleFile": "",
+      "sliceIndex": 128,
+      "direction": 0,
+      "offset": 0,
+      "sliceInfo": {
+        "Start": 0,
+        "End": 0,
+        "LoopStart": 0,
+        "LoopMode": 0,
+        "PulsePosition": 0,
+        "LoopCrossfadeLength": 0,
+        "LoopCrossfadeType": 0,
+        "TailLength": 0.0,
+        "TailLoopPosition": 0.5,
+        "NumLoopRepeats": 0
+      },
+      "version": 11,
+      "pitchRandom": 0.0,
+      "VolumeRandom": 0.0,
+      "PanRandom": 0.0,
+      "OffsetRandom": 0.0,
+      "sliceIncrement": 0,
+      "sliceCycleLength": 128,
+      "sliceIncrementRngSeed": 372477,
+      "playbackOffset": 0.0,
+      "layerLoopModeOverridesSliceLoopMode": false,
+      "loopMode": 0,
+      "quadrantEnabled": {
+        "value0": true,
+        "value1": true,
+        "value2": true,
+        "value3": true
+      }
+    },
+    {
+      "active": true,
+      "volume": {
+        "gainCoefficient": 1.0,
+        "controlValue": 1.0,
+        "law": 1
+      },
+      "pan": 0.5,
+      "pitch": 0.0,
+      "coarseTune": 0,
+      "fineTune": 0,
+      "velocityStart": 0,
+      "velocityEnd": 127,
+      "sampleStart": 0,
+      "sampleEnd": 0,
+      "loop": false,
+      "loopStart": 0,
+      "loopEnd": 0,
+      "loopCrossfadeLength": 0,
+      "loopFineTune": 0,
+      "mute": false,
+      "rootNote": 0,
+      "keyTrackEnable": false,
+      "sampleName": "",
+      "sampleFile": "",
+      "sliceIndex": 129,
+      "direction": 0,
+      "offset": 0,
+      "sliceInfo": {
+        "Start": 0,
+        "End": 0,
+        "LoopStart": 0,
+        "LoopMode": 0,
+        "PulsePosition": 0,
+        "LoopCrossfadeLength": 0,
+        "LoopCrossfadeType": 0,
+        "TailLength": 0.0,
+        "TailLoopPosition": 0.5,
+        "NumLoopRepeats": 0
+      },
+      "version": 11,
+      "pitchRandom": 0.0,
+      "VolumeRandom": 0.0,
+      "PanRandom": 0.0,
+      "OffsetRandom": 0.0,
+      "sliceIncrement": 0,
+      "sliceCycleLength": 1,
+      "sliceIncrementRngSeed": 280157,
+      "playbackOffset": 0.0,
+      "layerLoopModeOverridesSliceLoopMode": false,
+      "loopMode": 0,
+      "quadrantEnabled": {
+        "value0": true,
+        "value1": true,
+        "value2": true,
+        "value3": true
+      }
+    },
+    {
+      "active": true,
+      "volume": {
+        "gainCoefficient": 1.0,
+        "controlValue": 1.0,
+        "law": 1
+      },
+      "pan": 0.5,
+      "pitch": 0.0,
+      "coarseTune": 0,
+      "fineTune": 0,
+      "velocityStart": 0,
+      "velocityEnd": 127,
+      "sampleStart": 0,
+      "sampleEnd": 0,
+      "loop": false,
+      "loopStart": 0,
+      "loopEnd": 0,
+      "loopCrossfadeLength": 0,
+      "loopFineTune": 0,
+      "mute": false,
+      "rootNote": 0,
+      "keyTrackEnable": false,
+      "sampleName": "",
+      "sampleFile": "",
+      "sliceIndex": 129,
+      "direction": 0,
+      "offset": 0,
+      "sliceInfo": {
+        "Start": 0,
+        "End": 0,
+        "LoopStart": 0,
+        "LoopMode": 0,
+        "PulsePosition": 0,
+        "LoopCrossfadeLength": 0,
+        "LoopCrossfadeType": 0,
+        "TailLength": 0.0,
+        "TailLoopPosition": 0.5,
+        "NumLoopRepeats": 0
+      },
+      "version": 11,
+      "pitchRandom": 0.0,
+      "VolumeRandom": 0.0,
+      "PanRandom": 0.0,
+      "OffsetRandom": 0.0,
+      "sliceIncrement": 0,
+      "sliceCycleLength": 1,
+      "sliceIncrementRngSeed": 280157,
+      "playbackOffset": 0.0,
+      "layerLoopModeOverridesSliceLoopMode": false,
+      "loopMode": 0,
+      "quadrantEnabled": {
+        "value0": true,
+        "value1": true,
+        "value2": true,
+        "value3": true
+      }
+    },
+    {
+      "active": true,
+      "volume": {
+        "gainCoefficient": 1.0,
+        "controlValue": 1.0,
+        "law": 1
+      },
+      "pan": 0.5,
+      "pitch": 0.0,
+      "coarseTune": 0,
+      "fineTune": 0,
+      "velocityStart": 0,
+      "velocityEnd": 127,
+      "sampleStart": 0,
+      "sampleEnd": 0,
+      "loop": false,
+      "loopStart": 0,
+      "loopEnd": 0,
+      "loopCrossfadeLength": 0,
+      "loopFineTune": 0,
+      "mute": false,
+      "rootNote": 0,
+      "keyTrackEnable": false,
+      "sampleName": "",
+      "sampleFile": "",
+      "sliceIndex": 129,
+      "direction": 0,
+      "offset": 0,
+      "sliceInfo": {
+        "Start": 0,
+        "End": 0,
+        "LoopStart": 0,
+        "LoopMode": 0,
+        "PulsePosition": 0,
+        "LoopCrossfadeLength": 0,
+        "LoopCrossfadeType": 0,
+        "TailLength": 0.0,
+        "TailLoopPosition": 0.5,
+        "NumLoopRepeats": 0
+      },
+      "version": 11,
+      "pitchRandom": 0.0,
+      "VolumeRandom": 0.0,
+      "PanRandom": 0.0,
+      "OffsetRandom": 0.0,
+      "sliceIncrement": 0,
+      "sliceCycleLength": 1,
+      "sliceIncrementRngSeed": 280157,
+      "playbackOffset": 0.0,
+      "layerLoopModeOverridesSliceLoopMode": false,
+      "loopMode": 0,
+      "quadrantEnabled": {
+        "value0": true,
+        "value1": true,
+        "value2": true,
+        "value3": true
+      }
+    },
+    {
+      "active": true,
+      "volume": {
+        "gainCoefficient": 1.0,
+        "controlValue": 1.0,
+        "law": 1
+      },
+      "pan": 0.5,
+      "pitch": 0.0,
+      "coarseTune": 0,
+      "fineTune": 0,
+      "velocityStart": 0,
+      "velocityEnd": 127,
+      "sampleStart": 0,
+      "sampleEnd": 0,
+      "loop": false,
+      "loopStart": 0,
+      "loopEnd": 0,
+      "loopCrossfadeLength": 0,
+      "loopFineTune": 0,
+      "mute": false,
+      "rootNote": 0,
+      "keyTrackEnable": false,
+      "sampleName": "",
+      "sampleFile": "",
+      "sliceIndex": 129,
+      "direction": 0,
+      "offset": 0,
+      "sliceInfo": {
+        "Start": 0,
+        "End": 0,
+        "LoopStart": 0,
+        "LoopMode": 0,
+        "PulsePosition": 0,
+        "LoopCrossfadeLength": 0,
+        "LoopCrossfadeType": 0,
+        "TailLength": 0.0,
+        "TailLoopPosition": 0.5,
+        "NumLoopRepeats": 0
+      },
+      "version": 11,
+      "pitchRandom": 0.0,
+      "VolumeRandom": 0.0,
+      "PanRandom": 0.0,
+      "OffsetRandom": 0.0,
+      "sliceIncrement": 0,
+      "sliceCycleLength": 1,
+      "sliceIncrementRngSeed": 280157,
+      "playbackOffset": 0.0,
+      "layerLoopModeOverridesSliceLoopMode": false,
+      "loopMode": 0,
+      "quadrantEnabled": {
+        "value0": true,
+        "value1": true,
+        "value2": true,
+        "value3": true
+      }
+    }
+  ],
+  "editAllLayers": false,
+  "articulationUseXY": false,
+  "articulations": {
+    "value0": {
+      "version": 27,
+      "articulationType": 0,
+      "articulationSpeed": 0.5,
+      "articulationDynamics": 0.5,
+      "articulationStereo": 1.0,
+      "articulationSpeedScaling": 1
+    },
+    "value1": {
+      "version": 27,
+      "articulationType": 0,
+      "articulationSpeed": 0.5,
+      "articulationDynamics": 0.5,
+      "articulationStereo": 1.0,
+      "articulationSpeedScaling": 1
+    },
+    "value2": {
+      "version": 27,
+      "articulationType": 0,
+      "articulationSpeed": 0.5,
+      "articulationDynamics": 0.5,
+      "articulationStereo": 1.0,
+      "articulationSpeedScaling": 1
+    },
+    "value3": {
+      "version": 27,
+      "articulationType": 0,
+      "articulationSpeed": 0.5,
+      "articulationDynamics": 0.5,
+      "articulationStereo": 1.0,
+      "articulationSpeedScaling": 1
+    }
+  },
+  "userSelectableWarpPoolIndex": 0,
+  "velocityScale": 1.0,
+  "chopProperties": {
+    "version": 1,
+    "chopMode": 0,
+    "chopThreshold": 65,
+    "chopMinSliceTime": 100,
+    "chopRegions": 16,
+    "chopBars": 1,
+    "chopBeats": 4,
+    "chopTimeSignature": 2
+  },
+  "layerCrossfade": 0,
+  "layerCrossfadeX": 0.0,
+  "layerCrossfadeY": 0.0,
+  "mixable": {
+    "version": 1,
+    "audioRoute": {
+      "destination": 0,
+      "audioRouteSubIndex": 0,
+      "channelBitmap": {
+        "type": 0,
+        "data": 3
+      }
+    },
+    "volume": 0.7079460024833679,
+    "mute": false,
+    "solo": false,
+    "pan": 0.5,
+    "automationFilter": 1,
+    "sends": [
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "inserts": {
+      "insertsEnabled": true,
+      "effects": []
+    }
+  },
+  "padEffects": {
+    "padEffectsData": {
+      "value0": {
+        "fxType": 0,
+        "fxValue": 0.0
+      },
+      "value1": {
+        "fxType": 9,
+        "fxValue": 0.0
+      },
+      "value2": {
+        "fxType": 1,
+        "fxValue": 0.0
+      },
+      "value3": {
+        "fxType": 2,
+        "fxValue": 0.0
+      },
+      "value4": {
+        "fxType": 3,
+        "fxValue": 0.0
+      },
+      "value5": {
+        "fxType": 7,
+        "fxValue": 0.0
+      },
+      "value6": {
+        "fxType": 4,
+        "fxValue": 0.0
+      },
+      "value7": {
+        "fxType": 13,
+        "fxValue": 0.0
+      }
+    }
+  },
+  "noteCounters": {
+    "value0": 2,
+    "value1": 2
+  },
+  "modLinks": [],
+  "randomPlaySeed": 822638,
+  "midiOutChannel": 0,
+  "midiOutNote": 0,
+  "midiOutBehaviour": 1,
+  "partialPresetName": "<none>"
+}
