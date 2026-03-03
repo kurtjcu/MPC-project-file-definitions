@@ -30,3 +30,12 @@ data = json.loads(lines[5])["data"]  # all project content
 ```
 
 See [00-format-reference.md](xpj-format/00-format-reference.md) for format details, serialization patterns, and known quirks.
+
+## Examples
+
+Visualizations built from parsed `.xpj` project data:
+
+### Drum track with automation
+![Drum track with automation](resources/Drum%20track%20with%20automation.png)
+
+A drum track piano roll (8 bars, 184 notes) with two automation lanes — `pad_amp_env_decay` and `pad_mute` — rendered directly from the sequence and automation event data in the `.xpj` file.
